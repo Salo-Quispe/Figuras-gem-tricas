@@ -1,1 +1,1 @@
-# Figuras-gem-tricas
+# Figuras-gemetricas
